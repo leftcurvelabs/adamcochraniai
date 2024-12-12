@@ -77,8 +77,8 @@ We are a group of passionate developers who met at a Berlin Hackathon. United by
 
 Stay updated and join the conversation:
 
-- Twitter: [@LeftCurveLabs](https://twitter.com/LeftCurveLabs)
-- Telegram: [LeftCurveLabs Community](#)
+- Twitter: [@LeftCurveLabs](https://twitter.com/leftcurvelab)
+- Telegram: [LeftCurveLabs Community](https://t.me/acaiportal)
 
 ---
 
