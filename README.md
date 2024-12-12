@@ -1,5 +1,5 @@
 # Adam Cochran AI - $ACAI
-
+![Logo](https://pbs.twimg.com/profile_images/1865398112115642368/5RnaJMdA_400x400.jpg)
 ## Overview
 
 **$ACAI** is the first parodic AI experiment by **LeftCurveLabs**, created as a token of appreciation to a bastion of Crypto Twitter. Our artificial intelligence-infused Adam Cochran bot is designed to provide crypto tips and analyze TikTok trends with wit and expertise that only "Adam Cochran" (real or imagined) can deliver. 
